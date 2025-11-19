@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Adebayooluwaferanmi,a Medical Laboratory Scientist
-- 👀 I’m interested in Health Tech
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Projects that brings about easy management of Health information/Data in a way that will circumvent mostly encountered redundacy in Health Care Delivery Services 
-- 📫 How to reach me: ade.feranmi0219@gmail.com; +2347037562746
+### Hi, I'm Oluwaferanmi — Backend & Platform Engineer
 
-<!---
-Adebayooluwaferanmi/Adebayooluwaferanmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build reliable APIs, microservices, data pipelines, and automation across healthcare and beyond. Tools: Python, Django, Node.js • Kubernetes, Kafka • ArgoCD, Helm • Postgres, Redis.
+
+- Backend: REST, async Python, microservices
+- Integrations: SSO/Okta, webhooks, external APIs
+- Platform: Docker, Kubernetes, Terraform, ArgoCD/Helm, CI/CD (GitHub Actions)
+- Data/Messaging: Kafka & Confluent Cloud
+- Observability: metrics, tracing, logging
+
+Open to backend, platform, integration, and DevOps roles (remote/hybrid).
+Reach me: adbafem@gmail.com · linkedin.com/in/adebayo-oluwaferanmi
